@@ -16,6 +16,15 @@ import project05Big from "./../img/projects/05-big.jpg";
 import project06 from "./../img/projects/06.jpg";
 import project06Big from "./../img/projects/06-big.jpg";
 
+import project07 from "./../img/projects/07.jpg";
+import project07Big from "./../img/projects/07-big.jpg";
+
+import project08 from "./../img/projects/08.jpg";
+import project08Big from "./../img/projects/08-big.jpg";
+
+import project09 from "./../img/projects/09.jpg";
+import project09Big from "./../img/projects/09-big.jpg";
+
 const projects = [
     {
         title: 'Cyprus Real Estate',
@@ -33,34 +42,57 @@ const projects = [
         // gitHubLink: 'https://github.com',
         liveLink: 'https://mebius.kz',
     },
+
+    {
+        title: 'Landing "Termo-Syntez"',
+        img: project04,
+        imgBig: project04Big,
+        skills: 'HTML/CSS/JS , PHP, Wordpress ',
+        liveLink: 'https://termo-syntez.kz',
+    },
     {
         title: 'Digital agency "MediaS"',
         img: project03,
         imgBig: project03Big,
         skills: 'HTML/CSS/JS , PHP, Wordpress ',
         gitHubLink: 'https://github.com/daurenswrld/medias-agency',
-        liveLink: 'https://medias.kz',
-    },
-    {
-        title: 'Ad agency "Profreklama"',
-        img: project04,
-        imgBig: project04Big,
-        skills: 'HTML/CSS/JS , PHP, Wordpress ',
-        liveLink: 'https://profreklama.kz',
+        liveLink: 'https://media-s.netlify.app',
     },
     {
         title: 'Online catalog "Arna-Taraz"',
         img: project05,
         imgBig: project05Big,
         skills: 'HTML, SCSS, JS, PHP',
-        liveLink: 'https://arna-taraz.kz',
+        liveLink: 'https://arna-taraz.netlify.app/',
     },
     {
-        title: 'Surgeon "Aisha-Med"',
+        title: 'Multi-page site "Xamad"',
         img: project06,
         imgBig: project06Big,
-        skills: 'Bootstrap, PHP, Wordpress',
-        liveLink: 'https://aisha-med.kz',
+        skills: 'HTML, SCSS, JS, Figma',
+        liveLink: 'https://xamad.netlify.app',
+    },
+    {
+        title: 'Teachers and tutors in JIHC',
+        img: project07,
+        imgBig: project07Big,
+        skills: 'HTML, SCSS, JS, React',
+        liveLink: 'https://jicedu.netlify.app',
+        gitHubLink: 'https://github.com/daurenswrld/react-jihc-legends'
+    },
+    {
+        title: 'Cars shop "Shax-Car Audio"',
+        img: project08,
+        imgBig: project08Big,
+        skills: 'HTML, SCSS, JS, Figma',
+        liveLink: 'https://shax-caraudio.kz/',
+    },
+    {
+        title: 'Car detailing "Avto Stimul"',
+        img: project09,
+        imgBig: project09Big,
+        skills: 'HTML, SCSS, JS, Figma',
+        liveLink: 'https://avto-stimul.kz/',
     },
 ];
 
