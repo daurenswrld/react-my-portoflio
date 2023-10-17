@@ -25,6 +25,15 @@ import project08Big from "./../img/projects/08-big.jpg";
 import project09 from "./../img/projects/09.jpg";
 import project09Big from "./../img/projects/09-big.jpg";
 
+import project10 from "./../img/projects/10.jpg";
+import project10Big from "./../img/projects/10-big.jpg";
+
+import project11 from "./../img/projects/11.jpg";
+import project11Big from "./../img/projects/11-big.jpg";
+
+import project12 from "./../img/projects/12.jpg";
+import project12Big from "./../img/projects/12-big.jpg";
+
 const projects = [
     {
         title: 'Cyprus Real Estate',
@@ -93,6 +102,27 @@ const projects = [
         imgBig: project09Big,
         skills: 'HTML, SCSS, JS, Figma',
         liveLink: 'https://avto-stimul.kz/',
+    },
+    {
+        title: 'Meditech INUS Company',
+        img: project10,
+        imgBig: project10Big,
+        skills: 'HTML, SCSS, JS, Figma',
+        liveLink: 'https://meditech-inus.netlify.app/',
+    },
+    {
+        title: 'English studying center',
+        img: project11,
+        imgBig: project11Big,
+        skills: 'HTML, SCSS, JS, PHP, Figma',
+        liveLink: 'https://2nstudy.kz/',
+    },
+    {
+        title: 'Astana plumbers service',
+        img: project12,
+        imgBig: project12Big,
+        skills: 'HTML, SCSS, JS, PHP, Figma',
+        liveLink: 'https://santexnik-astana.netlify.app/',
     },
 ];
 

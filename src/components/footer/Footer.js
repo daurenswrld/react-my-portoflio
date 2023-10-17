@@ -17,7 +17,7 @@ const Footer = () => {
                         <li className="social__item"><a href="https://www.instagram.com/daurenswrld/" target='blank'><img src={instagram} alt="Link" /></a></li>
                         <li className="social__item"><a href="https://twitter.com/daurenswrld" target='blank'><img src={twitter} alt="Link" /></a></li>
                         <li className="social__item"><a href="https://github.com/daurenswrld" target='blank'><img src={gitHub} alt="Link" /></a></li>
-                        <li className="social__item"><a href="https://www.linkedin.com/in/dauren-bekuzaov-44a7a624b/" target='blank'><img src={linkedIn} alt="Link" /></a></li>
+                        <li className="social__item"><a href="https://www.linkedin.com/in/daurenswrld/" target='blank'><img src={linkedIn} alt="Link" /></a></li>
                     </ul>
                     <div className="copyright">
                         <p>© 2023 Dauren Bekuzakov</p>
